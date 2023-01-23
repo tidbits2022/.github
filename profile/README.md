@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to Tidbits!
+
+I'm too lazy to set this up. We are 11? students working on a messy rendition of a gamified app for learning.
 <!--
 
 **Here are some ideas to get you started:**
